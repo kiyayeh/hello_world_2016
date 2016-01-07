@@ -8069,8 +8069,13 @@ body.md-skin {
 }
 
 
-//
 
 .byebye {
   display:none;
+}
+
+
+
+p{
+  color:#888888!important;
 }
